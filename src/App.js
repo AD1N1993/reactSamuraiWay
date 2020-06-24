@@ -10,6 +10,7 @@ const App = () => {
       <Header />
       <Navbar />s
       <Profile />
+      <Profile />
     </div>
   );
 };
